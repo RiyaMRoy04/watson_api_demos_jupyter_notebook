@@ -2,7 +2,7 @@
 
 Get started with various [Watson API's](https://www.ibm.com/watson/) using Python and Jupyter Notebook in [IBM Watson Studio](https://datascience.ibm.com/) with these sample code
 
-###Steps to import Python Notebook to IBM Watson Studio
+### Steps to import Python Notebook to IBM Watson Studio
 
 1. Login to [IBM Cloud](https://console.bluemix.net)
 
