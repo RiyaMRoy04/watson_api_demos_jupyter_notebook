@@ -1,6 +1,6 @@
-## **Get started with WATSON API's in PYTHON**
+## **Get started with WATSON API's**
 
-Get started with various [Watson API's](https://www.ibm.com/watson/) in Python using Jupyter Notebook in [IBM Watson Studio](https://datascience.ibm.com/)
+Get started with various [Watson API's](https://www.ibm.com/watson/) using Python and Jupyter Notebook in [IBM Watson Studio](https://datascience.ibm.com/)
 
 ### Steps to import Python Notebook to IBM Watson Studio
 
